@@ -1,0 +1,25 @@
+{
+  "name": "@creatrix/date",
+  "version": "1.0.0",
+  "description": "Javacript date format using moment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/creatrixlb/date.git"
+  },
+  "keywords": [
+    "moment date"
+  ],
+  "author": "Creatrix Digital Agency <developers@creatrix-lb.com> (https://creatrix-lb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatrixlb/common/issues"
+  },
+  "dependencies": {
+    "moment": "2.29.1"
+  },
+  "homepage": "https://github.com/creatrixlb/date#readme"
+}
